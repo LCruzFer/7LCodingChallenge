@@ -1,3 +1,8 @@
+# 7Learnings Data Science Coding Challenge
+This repository contains my solutions to the 7Learnings Data Scientist Code Challenge. 
+
+The setup and tasks are described below as well as in the Jupyter Notebook named *Coding Challenges*. This also contains my solutions for the task and description of what steps I have taken.
+
 # 7Learnings Data Scientist Code Challenges
 
 Hello potential 7Learnings colleague!
